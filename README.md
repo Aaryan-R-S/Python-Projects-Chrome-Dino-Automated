@@ -115,4 +115,4 @@ Email ID - aaryan20004@iiitd.ac.in
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: readme-images/screenshot.png
+[product-screenshot]: readme-images/ss.png
